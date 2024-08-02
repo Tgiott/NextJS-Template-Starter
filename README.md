@@ -1,4 +1,4 @@
-# Next.js Full-stack starter template 2024
+# Next.js Full-stack starter template
 
 Welcome to the Next.js Full-stack starter template! This template provides a starting point for creating full-stack applications with Next.js.
 
