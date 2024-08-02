@@ -26,7 +26,7 @@ To get started with this template, you just need to follow these simple steps:
 1. Clone the repository:
 
    ```
-   git clone [https://github.com/Tgiott/React-Template-Starter.git
+   git clone https://github.com/Tgiott/React-Template-Starter.git
    ```
 
 2. Install dependencies:
